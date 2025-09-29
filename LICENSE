@@ -1,0 +1,95 @@
+MIT License
+
+Copyright (c) 2025 Cardiovascular Risk Prediction System
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 🏥 MEDICAL DISCLAIMER
+
+**IMPORTANT: This software is for research and educational purposes only.**
+
+### Clinical Use Restrictions
+
+This cardiovascular risk prediction system:
+
+- ❌ **IS NOT** a medical device
+- ❌ **IS NOT** intended for clinical diagnosis
+- ❌ **IS NOT** a substitute for professional medical advice
+- ❌ **HAS NOT** been evaluated or approved by regulatory agencies (FDA, EMA, etc.)
+- ❌ **SHOULD NOT** be used for making medical decisions
+
+### Healthcare Professional Consultation
+
+Always consult qualified healthcare professionals, including:
+- Licensed physicians
+- Board-certified cardiologists
+- Clinical specialists
+- Medical diagnosticians
+
+For any concerns about cardiovascular health, chest pain, or heart disease symptoms.
+
+### Research & Development Use
+
+This software is intended for:
+- ✅ Academic research
+- ✅ Educational purposes
+- ✅ Algorithm development
+- ✅ Medical informatics studies
+- ✅ Healthcare AI research
+
+### Data Privacy & HIPAA Compliance
+
+Users are responsible for:
+- Ensuring compliance with HIPAA regulations
+- Protecting patient privacy and confidentiality
+- Implementing appropriate data security measures
+- Obtaining necessary ethical approvals
+- Following local healthcare data protection laws
+
+### Liability Waiver
+
+The authors and contributors:
+- Disclaim all liability for medical outcomes
+- Make no guarantees of clinical accuracy
+- Assume no responsibility for healthcare decisions
+- Provide no warranty for diagnostic reliability
+
+**🚨 EMERGENCY NOTICE:** If experiencing chest pain, shortness of breath, or other cardiac emergency symptoms, call emergency services (911 in US) immediately. Do not rely on this software for emergency medical situations.
+
+---
+
+## 📋 Citation
+
+If you use this software in research, please cite:
+
+```
+@software{cardiovascular_risk_prediction_2025,
+  author = {[Your Name]},
+  title = {Cardiovascular Risk Prediction System},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/yourusername/heart-disease-prediction-ml-cardiology}
+}
+```
+
+---
+
+**For questions about clinical validation, medical ethics, or healthcare compliance, please consult appropriate medical authorities and regulatory bodies.**

@@ -1,0 +1,57 @@
+# ========================================
+# CARDIOVASCULAR RISK PREDICTION SYSTEM
+# Clinical ML Dependencies
+# ========================================
+
+# Core Machine Learning
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Medical Data Processing
+scipy>=1.7.0
+
+# Model Persistence
+joblib>=1.0.0
+pickle-mixin>=1.0.2
+
+# Clinical Performance Metrics
+imbalanced-learn>=0.8.0
+
+# Healthcare Data Validation
+openpyxl>=3.0.0
+
+# Jupyter Notebook Support (Optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Progress Tracking
+tqdm>=4.62.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Additional ML Algorithms
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Hyperparameter Optimization
+optuna>=2.10.0
+
+# Model Interpretability
+shap>=0.40.0
+lime>=0.2.0
+
+# Medical Data Security
+cryptography>=36.0.0
+
+# API Development (Optional)
+flask>=2.0.0
+fastapi>=0.70.0
+
+# Environment Management
+python-dotenv>=0.19.0
