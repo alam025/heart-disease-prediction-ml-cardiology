@@ -479,7 +479,7 @@ Summit 2024
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="100"/><br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dna.png" width="100"/><br/><br/>
 <h3>🧬 GENETIC ANALYSIS</h3>
 DNA Risk Markers<br/>
 Family History AI<br/>
