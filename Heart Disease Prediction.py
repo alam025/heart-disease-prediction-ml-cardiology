@@ -120,7 +120,7 @@ model = LogisticRegression()
 # training the LogisticRegression model with Training data
 model.fit(X_train,Y_train)
 
-
+#Add evaluation code
 # #Model Evaluation
 
 # #Accuracy Score
