@@ -110,7 +110,7 @@ print(X.shape,X_train.shape,X_test.shape)
 
 # In[24]:
 
-
+#Add core model code
 model = LogisticRegression()
 
 
