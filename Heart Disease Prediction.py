@@ -49,7 +49,7 @@ heart_data.info()
 
 # In[7]:
 
-
+#Add preprocessing functions
 #checking for missing values
 heart_data.isnull().sum()
 
